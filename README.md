@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mohan ram]() 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am second year of saveetha school of Engineering in  AI&DS in thadalam. I am full stack developer loved in making websites and application .I am productive in my works at all times I loved in coding in Hackerrank and other websites
 
 **My Reseach Interest**:
 - Outlying Aspect Mining
@@ -60,16 +60,11 @@ I am a third year Machine Learning Ph.D. candidate at [Federation University](ht
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.kaggle.com/themlphdstudent)
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://durgeshsamariya.github.io)
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" />](https://twitter.com/themlphdstudent) 
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/durgeshsamariya/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@themlphdstudent)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/themlphdstudent)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/mohan-ram-51681626a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[<img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=darkgreen" />](https://wa.me/qr/UIVANLFYJLQSN1)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=purple" />](https://instagram.com/_prime_x_neon__?igshid=OGQ5ZDc2ODk2ZA%3D%3D&utm_source=qr)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
 <!-- 
 ----
